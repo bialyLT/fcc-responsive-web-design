@@ -12,7 +12,7 @@ This repository includes solutions for the following projects and exercises:
 5. **Personal Portfolio Webpage**: A portfolio showcasing projects and skills.
 
 ## Folder Structure
-.
+`.
 ├── 1-tribute-page
 │   ├── index.html
 │   └── styles.css
@@ -28,7 +28,7 @@ This repository includes solutions for the following projects and exercises:
 ├── 5-personal-portfolio-webpage
 │   ├── index.html
 │   └── styles.css
-└── README.md
+└── README.md `
 ## How tu Use
 Each project folder contains an `index.html` file and a `styles.css` file. Simply open the `index.html` file in your web browser to view the project.
 
